@@ -1,7 +1,7 @@
 # MySQL comparison between VM(self-managed) and Managed
 
 ## Recording
-Zoom recording <https://drive.google.com/file/d/1H80Hme1cJWP6MnLgcrKSuFAQQiSTIJGz/view?usp=sharing>
+Zoom recording <>
 
 ## Chosen platform
 I used Google Cloud platform to create the VM and the Cloud SQL database.
