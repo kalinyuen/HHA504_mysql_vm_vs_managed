@@ -1,7 +1,7 @@
-# MySQL comparison between VM(self-managed) and Managed
+# MySQL Comparison Between VM (Self-Managed) and Managed
 
 ## Recording
-Zoom recording <>
+Zoom recording <https://drive.google.com/file/d/1YrShTNury2OcN9os2KZFit4i7jcH5tVG/view?usp=sharing>
 
 ## Chosen platform
 I used Google Cloud platform to create the VM and the Cloud SQL database.
@@ -48,7 +48,7 @@ DB_HOST, DB_PORT, DB_USER=class_user, DB_PASS, DB_NAME information can be stored
 ## Screenshots
 ### VM 
 Running VM
-![VM run](screenshots/vm/running.png)
+![VM run](screenshots/vm/vm_running.png)
 
 VM configuration
 ![VM config](screenshots/vm/vm_config1.png)
@@ -68,11 +68,11 @@ Running Managed
 ![Managed run](screenshots/managed/managed_running.png)
 
 Managed network and security
-![Managed network](screenshots/managed/managed_network.png)
+![Managed network](screenshots/managed/managed_networking.png)
 ![Managed network](screenshots/managed/managed_security.png)
 
 Python script results
 ![Managed python](screenshots/managed/managed_script.png)
 
 Managed query
-![Managed query](screenshots/managed/query.png)
+![Managed query](screenshots/managed/managed_query.png)

@@ -1,4 +1,4 @@
-# Setup for managed MySQL
+# Setup for Managed MySQL
 ## Google Cloud SQL creation
 1. Select to create a sandbox MySQL instance.
 2. Name instance and set a password.
